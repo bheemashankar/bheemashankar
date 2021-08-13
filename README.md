@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bheemashankar
 - 👀 I’m interested in Coding and Gadgets. 
-- 🌱 I’m currently learning ReactJs
+- 🌱 I’m currently learning gRPC
 - 💞️ I’m looking to collaborate on any Python innovative project(like self thinking and decission making ability)
 - 📫 How to reach me bheema.machani@gmail.com
 
